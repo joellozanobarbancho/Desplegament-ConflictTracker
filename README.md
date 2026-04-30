@@ -24,6 +24,12 @@ Base de Dades (Supabase)   PostgreSQL
 
 ---
 
+##  📊 Esquema Supabase
+
+![Esquema BBDD](./supabase-schema-wwuwlxspdepdfeahcqpq.png)
+
+---
+
 ## ⚙️ Variables d'Entorn
 
 ### Backend — Railway
